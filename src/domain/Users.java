@@ -10,5 +10,11 @@ package domain;
  * @Version 1.0
  */
 public class Users {
+            private String name;
+            private int age;
+            private String password;
 
+    public static void main(String[] args) {
+
+    }
 }
