@@ -13,7 +13,7 @@ public class Users {
             private String name;
             private int age;
             private String password;
-
+            private String test;
     public static void main(String[] args) {
 
         /*
@@ -22,5 +22,6 @@ public class Users {
         for (int i = 0; i < 100 ; i++){
             System.out.println("i = : " + i);
         }
+
     }
 }
